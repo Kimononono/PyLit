@@ -9,5 +9,6 @@ class Library(MagicBaseClass):
     
     def books(self):
         print('Function books was called')
+    
 
 
