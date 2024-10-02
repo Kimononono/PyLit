@@ -6,7 +6,8 @@ class Library(MagicBaseClass):
     
     def new_method(self):
         print('Function new_method was called')
+    
+    def books(self):
+        print('Function books was called')
 
 
-def new_method(self):
-    print('Function new_method was called')
